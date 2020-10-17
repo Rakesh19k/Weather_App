@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import Form from './Form'
 import Weather from './Weather'
 
-// const API_key = "1693cc8c0789b1c6c0577bd0336a138e"
 
 
 class WeatherApi extends Component {
